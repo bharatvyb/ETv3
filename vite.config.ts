@@ -11,7 +11,7 @@ export default defineConfig({
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
         name: 'BharatVyb Expense Tracker',
-        short_name: 'BharatVyb',
+        short_name: 'Expenses',
         description: 'Track your expenses and income easily with BharatVyb',
         theme_color: '#ffffff',
         background_color: '#ffffff',
