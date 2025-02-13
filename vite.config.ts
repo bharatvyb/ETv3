@@ -18,19 +18,19 @@ export default defineConfig({
         display: 'standalone',
         icons: [
           {
-            src: '/android-chrome-192x192.png',
+            src: '/icon-192x192_Greenbv.png',
             sizes: '192x192',
             type: 'image/png',
             purpose: 'any'
           },
           {
-            src: '/android-chrome-512x512.png',
+            src: '/icon-512x512_Blackbv.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any'
           },
           {
-            src: '/android-chrome-512x512.png',
+            src: '/icon-512x512_Blackbv.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'maskable'
